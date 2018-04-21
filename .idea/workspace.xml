@@ -76,6 +76,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -221,12 +222,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522235060862</updated>
       <workItem from="1522235062018" duration="18366000" />
-      <workItem from="1524291713008" duration="1867000" />
+      <workItem from="1524291713008" duration="1928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20233000" />
+    <option name="totallyTimeSpent" value="20294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
